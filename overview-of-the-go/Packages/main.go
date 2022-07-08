@@ -1,6 +1,10 @@
 package main
 
-import "log"
+import (
+	"log"
+
+	"main.go/helpers"
+)
 
 func main () {
 	log.Println("Hello")
